@@ -15,4 +15,4 @@ requests.post(calc_url, calc_subs)
 requests.post(compsci_url, compsci_subs)
 requests.post(psych_url, psych_subs)
 requests.post(lang_url, lang_subs)
-print('done')
+return 'done'
